@@ -1,5 +1,7 @@
 # Robotics Papers
 
+[中文版](./README_zh.md) | English
+
 Collection of arxiv robotics papers with Claude Code summaries.
 
 ## About
