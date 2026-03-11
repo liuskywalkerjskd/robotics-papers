@@ -16,6 +16,7 @@
 - [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) (`2303.04137`)
 
 ### 2025 年
+- [A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation](https://arxiv.org/abs/2507.05331) (`2507.05331`)
 - [Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via RL Augmented Diffusion](https://arxiv.org/abs/2506.11470) (`2506.11470`)
 - [WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control](https://arxiv.org/abs/2512.11047) (`2512.11047`)
 - [Generative Modeling via Drifting](https://arxiv.org/abs/2602.04770) (`2602.04770`)
