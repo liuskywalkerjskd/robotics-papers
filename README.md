@@ -17,6 +17,9 @@ This repository contains summaries of robotics papers from arxiv, generated usin
 ### 2023
 - [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) (`2303.04137`)
 
+### 2024
+- [Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning](https://arxiv.org/abs/2412.12953) (`2412.12953`)
+
 ### 2025
 - [A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation](https://arxiv.org/abs/2507.05331) (`2507.05331`)
 - [Multi-Loco: Unifying Multi-Embodiment Legged Locomotion via RL Augmented Diffusion](https://arxiv.org/abs/2506.11470) (`2506.11470`)
