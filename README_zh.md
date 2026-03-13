@@ -12,6 +12,9 @@
 
 ## 论文列表
 
+### 2020 年
+- [Gradient Surgery for Multi-Task Learning (PCGrad)](https://arxiv.org/abs/2001.06782) (`2001.06782`)
+
 ### 2023 年
 - [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) (`2303.04137`)
 

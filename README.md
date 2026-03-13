@@ -14,6 +14,9 @@ This repository contains summaries of robotics papers from arxiv, generated usin
 
 ## Papers
 
+### 2020
+- [Gradient Surgery for Multi-Task Learning (PCGrad)](https://arxiv.org/abs/2001.06782) (`2001.06782`)
+
 ### 2023
 - [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://arxiv.org/abs/2303.04137) (`2303.04137`)
 
